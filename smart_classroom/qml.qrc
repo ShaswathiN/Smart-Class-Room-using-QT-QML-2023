@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>Page2.qml</file>
+        <file>Page3.qml</file>
+        <file>Page4.qml</file>
+        <file>images/ac.png</file>
+        <file>images/bright.png</file>
+        <file>images/cameratv.png</file>
+        <file>images/cctv.png</file>
+        <file>images/drop.png</file>
+        <file>images/fan.png</file>
+        <file>images/light.png</file>
+        <file>images/login.png</file>
+        <file>images/projector.png</file>
+        <file>images/snowflake.png</file>
+        <file>images/speaker.png</file>
+        <file>images/speed.png</file>
+        <file>images/thermometer.png</file>
+        <file>images/tv.gif</file>
+        <file>images/video.png</file>
+        <file>images/video-channel.gif</file>
+        <file>images/volume.png</file>
+    </qresource>
+</RCC>
